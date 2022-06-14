@@ -8,7 +8,6 @@ function members() {
   return (
     <div>
       <Greeting />
-      <Divider />
       <MemberStack />
     </div>
   );
